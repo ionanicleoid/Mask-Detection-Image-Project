@@ -1,2 +1,2 @@
 # Mask-Detection-Image-Project
-Image classification project in Python using support vector machine, random forest and neural networks to create a model that can identify if images of humans have a mask on and also determine what gender the individual is. 
+This project will aim to create different models to for mask detection in images with the added complexity of determining gender whether are female or male. Pre-processing the images to resize, binarise and extracted features before performing image augmentation and class decomposition. Each dataset generated in the process is compared through the accuracy of multiple classifiers such as Support Vector Machine (SVM), Random Forest (RF), Neural Network(NN) and Convolutional Neural Network (CNN). 
